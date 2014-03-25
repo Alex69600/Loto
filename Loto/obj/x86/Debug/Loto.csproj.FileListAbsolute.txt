@@ -1,0 +1,4 @@
+C:\Users\ALEX\AppData\Local\Temporary Projects\Loto\bin\Debug\Loto.exe
+C:\Users\ALEX\AppData\Local\Temporary Projects\Loto\bin\Debug\Loto.pdb
+C:\Users\ALEX\AppData\Local\Temporary Projects\Loto\obj\x86\Debug\Loto.exe
+C:\Users\ALEX\AppData\Local\Temporary Projects\Loto\obj\x86\Debug\Loto.pdb
